@@ -39,11 +39,11 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Maor-Or&theme=algolia" />
 </a>
 
-<h3>Where to find me</h3>
-<p>
+<h3>Where else to find me</h3>
+<!-- <p>
   <a href="https://github.com/Maor-Or" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a> 
+  </a>  -->
   <a href="https://www.linkedin.com/in/maor-or-95667b303/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
